@@ -1,6 +1,7 @@
 import math as m
 
 print("Este programa calcula la velocidad de escape de un planeta.")
+print("Por favor, ingrese solo numeros")
 print("Por favor, ingrese los siguientes datos:")
 
     # Solicitar al usuario que ingrese el radio en kilómetros
